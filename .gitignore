@@ -3,3 +3,9 @@ dist
 *.
 *.log
 coverage
+.DS_Store
+.vscode
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
